@@ -1,5 +1,0 @@
-# TQ
-
-## Components
-
-## Other stuff
